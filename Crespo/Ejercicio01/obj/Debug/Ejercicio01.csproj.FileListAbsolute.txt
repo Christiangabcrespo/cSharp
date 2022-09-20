@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Crespo\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\Users\Christian\source\repos\Crespo\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\Christian\source\repos\Crespo\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\Christian\source\repos\Crespo\Ejercicio01\obj\Debug\Ejercicio01.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\Crespo\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Crespo\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\Christian\source\repos\Crespo\Ejercicio01\obj\Debug\Ejercicio01.pdb
