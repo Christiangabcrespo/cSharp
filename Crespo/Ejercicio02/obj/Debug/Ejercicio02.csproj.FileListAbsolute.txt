@@ -4,3 +4,9 @@ C:\Users\Christian\source\repos\Crespo\Ejercicio02\bin\Debug\Ejercicio02.pdb
 C:\Users\Christian\source\repos\Crespo\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
 C:\Users\Christian\source\repos\Crespo\Ejercicio02\obj\Debug\Ejercicio02.exe
 C:\Users\Christian\source\repos\Crespo\Ejercicio02\obj\Debug\Ejercicio02.pdb
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio02\bin\Debug\Ejercicio02.exe
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio02\bin\Debug\Ejercicio02.pdb
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio02\obj\Debug\Ejercicio02.exe
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio02\obj\Debug\Ejercicio02.pdb
