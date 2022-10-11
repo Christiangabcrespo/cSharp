@@ -11,3 +11,9 @@ C:\xampp\htdocs\cSharp\Crespo\Ejercicio01\bin\Debug\Ejercicio01.pdb
 C:\xampp\htdocs\cSharp\Crespo\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
 C:\xampp\htdocs\cSharp\Crespo\Ejercicio01\obj\Debug\Ejercicio01.exe
 C:\xampp\htdocs\cSharp\Crespo\Ejercicio01\obj\Debug\Ejercicio01.pdb
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio01\bin\Debug\Ejercicio01.exe
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio01\bin\Debug\Ejercicio01.pdb
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio01\obj\Debug\Ejercicio01.exe
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio01\obj\Debug\Ejercicio01.pdb

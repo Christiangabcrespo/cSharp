@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ejer03
+namespace Ejercico03
 {
 
     public class Password
