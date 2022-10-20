@@ -22,7 +22,7 @@ namespace Ejercicio04
             this.peso = peso;
         }
 
-        public Television(double resolucion, bool sintonizadorTDT) : base()
+        public Television(double resolucion, bool sintonizadorTDT, double precioBase, double peso, char consumodef, string colordef) : base(precioBase, peso, consumodef, colordef)
         {
             this.resolucion = resolucion;
             this.sintonizadorTDT = sintonizadorTDT;

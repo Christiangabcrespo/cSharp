@@ -1,0 +1,7 @@
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio08\bin\Debug\Ejercicio08.exe.config
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio08\bin\Debug\Ejercicio08.exe
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio08\bin\Debug\Ejercicio08.pdb
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio08\obj\Debug\Ejercicio08.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio08\obj\Debug\Ejercicio08.exe
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio08\obj\Debug\Ejercicio08.pdb
+C:\xampp\htdocs\cSharp\Crespo\Ejercicio08\obj\Debug\Ejercicio08.csprojAssemblyReference.cache

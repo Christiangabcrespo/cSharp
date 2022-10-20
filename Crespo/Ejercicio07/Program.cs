@@ -10,7 +10,7 @@ namespace Ejercicio07
     {
         static void Main(string[] args)
         {
-            Raices raiz1 = new Raices(1, 4, 4);
+            Raices raiz1 = new Raices(80, 80, 10);
             raiz1.calcular();
             Console.ReadKey();
         }

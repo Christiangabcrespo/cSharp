@@ -138,10 +138,14 @@ namespace Ejercicio04
         {
             this.precioBase = precioBase;
             this.peso = peso;
-            this.consumoDeafault = consumodef;
-            this.colorDefault = colordef;
+            consumoDeafault = consumodef;
+            colorDefault = colordef;
         }
 
+        public virtual void MostrarInfo()
+        {
+            Console.WriteLine("");
+        }
     }
 }
 

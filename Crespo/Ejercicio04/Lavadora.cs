@@ -8,23 +8,26 @@ namespace Ejercicio04
 {
     public class Lavadora: Electrodomestico
     {
-        const int carga = 5;
+        public int carga = 5;
 
         public Lavadora()
         {
 
         }
 
-        public Lavadora(double precio, int peso)
+        public Lavadora(double precio, int peso, int carga, char consumodef, string colordef) : base()
         {
             precioBase = precio;
             this.peso = peso;
+            this.carga = carga;
+            consumoDeafault = consumodef;
+            colorDefault = colordef;
         }
 
-        public Lavadora(int carga) : base()
-        {
-            peso = carga;
-        }
+        //public Lavadora(int carga) : base()
+        //{
+        //    peso = carga;
+        //}
 
 
         public int getCarga()
@@ -38,6 +41,10 @@ namespace Ejercicio04
             {
                 precioBase += 50;
             }
+        }
+        public override void MostrarInfo()
+        {
+            Console.WriteLine("el precio es de {0}, su peso es de {1}, su carga es de {2}, su consumo es de categoria {3}, y su color es {4}", precioBase, peso, carga, consumoEnergetico, color);
         }
     }
 }
