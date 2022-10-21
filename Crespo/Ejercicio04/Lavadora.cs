@@ -42,9 +42,5 @@ namespace Ejercicio04
                 precioBase += 50;
             }
         }
-        public override void MostrarInfo()
-        {
-            Console.WriteLine("el precio es de {0}, su peso es de {1}, su carga es de {2}, su consumo es de categoria {3}, y su color es {4}", precioBase, peso, carga, consumoEnergetico, color);
-        }
     }
 }

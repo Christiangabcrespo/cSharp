@@ -141,11 +141,6 @@ namespace Ejercicio04
             consumoDeafault = consumodef;
             colorDefault = colordef;
         }
-
-        public virtual void MostrarInfo()
-        {
-            Console.WriteLine("");
-        }
     }
 }
 
