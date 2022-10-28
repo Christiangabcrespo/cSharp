@@ -65,6 +65,8 @@ namespace Ejercicio04
             Console.WriteLine("La suma de las televisiones es " + sumaTelevision);
             Console.WriteLine("");
 
+            //Mostrar Lavadoras precio
+
             Console.WriteLine("");
             Console.WriteLine("Lavadoras precio final");
             Console.WriteLine("");
