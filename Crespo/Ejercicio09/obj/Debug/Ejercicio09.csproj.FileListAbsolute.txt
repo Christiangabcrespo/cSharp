@@ -4,3 +4,10 @@ C:\xampp\htdocs\cSharp\Crespo\Ejercicio09\bin\Debug\Ejercicio09.pdb
 C:\xampp\htdocs\cSharp\Crespo\Ejercicio09\obj\Debug\Ejercicio09.csproj.CoreCompileInputs.cache
 C:\xampp\htdocs\cSharp\Crespo\Ejercicio09\obj\Debug\Ejercicio09.exe
 C:\xampp\htdocs\cSharp\Crespo\Ejercicio09\obj\Debug\Ejercicio09.pdb
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio09\bin\Debug\Ejercicio09.exe.config
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio09\bin\Debug\Ejercicio09.exe
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio09\bin\Debug\Ejercicio09.pdb
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio09\obj\Debug\Ejercicio09.csproj.AssemblyReference.cache
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio09\obj\Debug\Ejercicio09.csproj.CoreCompileInputs.cache
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio09\obj\Debug\Ejercicio09.exe
+D:\Xampp\htdocs\cSharp\Crespo\Ejercicio09\obj\Debug\Ejercicio09.pdb
